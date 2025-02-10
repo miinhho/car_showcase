@@ -18,22 +18,22 @@
   <br />
 
   <img
-    src="https://github.com/miinhho/car_showcase_clonecoding/blob/main/images/hero.png?raw=true"
+    src="https://github.com/miinhho/car_showcase_clonecoding/blob/master/images/hero.png?raw=true"
     alt="hero"
   />
   <p>hero</p>
   <img
-    src="https://github.com/miinhho/car_showcase_clonecoding/blob/main/images/catalogue.png?raw=true"
+    src="https://github.com/miinhho/car_showcase_clonecoding/blob/master/images/catalogue.png?raw=true"
     alt="catalogue"
   />
   <p>catalogue</p>
   <img
-    src="https://github.com/miinhho/car_showcase_clonecoding/blob/main/images/details.png?raw=true"
+    src="https://github.com/miinhho/car_showcase_clonecoding/blob/master/images/details.png?raw=true"
     alt="details"
   />
   <p>details</p>
   <img
-    src="https://github.com/miinhho/car_showcase_clonecoding/blob/main/images/footer.png?raw=true"
+    src="https://github.com/miinhho/car_showcase_clonecoding/blob/master/images/footer.png?raw=true"
     alt="footer"
   />
   <p>footer</p>
